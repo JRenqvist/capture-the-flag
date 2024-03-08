@@ -1,0 +1,5 @@
+__pycache__/
+pymunk/
+pymunk-6.6.0.dist-info/
+venv/
+_cffi_backend.cp311-win_amd64.pyd

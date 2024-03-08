@@ -1,0 +1,14 @@
+Features:
+
+sounds (1pt)
+Hot seat multiplayer (1pt)
+Unfair Ai (1pt)
+Implement fog of war (3pts) -- change "play_FOW" on line ~66 to True
+Recoil (2pts)
+Explosion (2pts)
+
+User manual located in ./data/manual
+
+LiuID:
+jakre732
+axenc178
